@@ -4,8 +4,7 @@ This project showcases a simple design card created using HTML and CSS. It inclu
 
 ## Preview
 
-![Uploading Card-Output-image.png…]()
-
+![image](https://github.com/Harsh-Sonker/HTML-CSS-Mini-To-Advanced-Projects/assets/86284353/ca02f9be-cebc-48c4-bed6-43c28f7a3ef7)
 
 ## Description
 
