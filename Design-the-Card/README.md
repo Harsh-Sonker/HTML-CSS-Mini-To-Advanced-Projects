@@ -4,7 +4,8 @@ This project showcases a simple design card created using HTML and CSS. It inclu
 
 ## Preview
 
-![Design Card](image.png)
+![Uploading Card-Output-image.png…]()
+
 
 ## Description
 
